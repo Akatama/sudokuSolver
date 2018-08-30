@@ -1,6 +1,6 @@
 Version 1.1
 1/29/2016
 
-This is a sudoku solver that I made a year ago. Very little has changed besides some spacing issues with the printing on the command promt.
+This is a sudoku solver that I made a year ago. Very little has changed besides some spacing issues with the printing on the command prompt.
 
 The instructions are pretty clear on how to use, and if you want to know what a function does then comments inside abound. Most of them are named with descriptive names anyway.
